@@ -1,6 +1,6 @@
 /**********************************************************************************
 Recursive expression recognizer
-by Anshul Shandilya (CSc 135,#2)
+by Anshul Shandilya
 
 Compile and run instructions:
 
